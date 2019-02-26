@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Multi_process_Parallel_Execution.dir/main.c.o  -o Multi_process_Parallel_Execution 

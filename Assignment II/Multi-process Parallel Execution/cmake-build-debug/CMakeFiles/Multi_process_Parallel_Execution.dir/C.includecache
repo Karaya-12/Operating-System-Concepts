@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/karaya_12/Coding/Operating System Concepts/Assignment II/Multi-process Parallel Execution/main.c
+sys/types.h
+-
+wait.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+signal.h
+-
+

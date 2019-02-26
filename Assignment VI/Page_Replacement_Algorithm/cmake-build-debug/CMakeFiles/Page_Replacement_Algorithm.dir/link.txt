@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Page_Replacement_Algorithm.dir/main.cpp.o  -o Page_Replacement_Algorithm 

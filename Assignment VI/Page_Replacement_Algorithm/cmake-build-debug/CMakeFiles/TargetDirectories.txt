@@ -1,0 +1,3 @@
+/home/karaya_12/Coding/Operating System Concepts/Assignment VI/Page_Replacement_Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/karaya_12/Coding/Operating System Concepts/Assignment VI/Page_Replacement_Algorithm/cmake-build-debug/CMakeFiles/Page_Replacement_Algorithm.dir
+/home/karaya_12/Coding/Operating System Concepts/Assignment VI/Page_Replacement_Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir

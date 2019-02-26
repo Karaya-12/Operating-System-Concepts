@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/karaya_12/Coding/Operating System Concepts/Assignment III/Scheduling_Algorithm/main.cpp
+iostream
+-
+sstream
+-
+cmath
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+algorithm
+-
+queue
+-
+

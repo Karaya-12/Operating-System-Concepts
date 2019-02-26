@@ -1,0 +1,141 @@
+Input The Path And File Name Below (/home/karaya_12/Desktop/filename.txt)
+/home/karaya_12/桌面/input.txt
+
+Info Read From File : /home/karaya_12/桌面/input.txt
+Number of Total Processes : 11
+Process ID	  Arrival Time	   Burst Time		 Priority
+  P[1]			   0			   79				1
+  P[2]			   184			   49				0
+  P[3]			   135			   52				2
+  P[4]			   128			   65				1
+  P[5]			   197			   98				0
+  P[6]			   112			   10				2
+  P[7]			   298			   6				1
+  P[8]			   112			   72				0
+  P[9]			   38			   47				2
+  P[10]			   236			   100				1
+
+1 --> FCFS_Algorithm, 2 --> Shortest-Job-First Algorithm
+3 --> Round-Robin Scheduling Algorithm
+Make Your Choice Here : 1
+
+/*-----------------------------------------------------------------*/
+
+Info Read From File : /home/karaya_12/桌面/input.txt
+Number of Total Processes : 11
+Process ID	  Arrival Time	   Burst Time		 Priority
+  P[1]			   0			   79				1
+  P[2]			   184			   49				0
+  P[3]			   135			   52				2
+  P[4]			   128			   65				1
+  P[5]			   197			   98				0
+  P[6]			   112			   10				2
+  P[7]			   298			   6				1
+  P[8]			   112			   72				0
+  P[9]			   38			   47				2
+  P[10]			   236			   100				1
+
+/*-----------------------------------------------------------------*/
+First-Come-First-Served Scheduling Algorithm
+
+Process ID	  Burst Time	 Waiting Time	 Turnaround Time
+  P[1]			   79			   0				79
+  P[9]			   47			   41				88
+  P[6]			   10			   14				24
+  P[8]			   72			   24				96
+  P[4]			   65			   80				145
+  P[3]			   52			   138				190
+  P[2]			   49			   141				190
+  P[5]			   98			   177				275
+  P[10]			   100			   236				336
+  P[7]			   6			   274				280
+Total Scheduling Times : 10
+Total Waiting Time : 1125
+Total Turnaround Time : 1703
+Average Waiting Time : 112.5
+Average Turnaround Time : 170.3
+
+/*-----------------------------------------------------------------*/
+
+Input 'Y' or 'y' For Another Algorithm, Anything Else To Quit : y
+
+1 --> FCFS_Algorithm, 2 --> Shortest-Job-First Algorithm
+3 --> Round-Robin Scheduling Algorithm
+Make Your Choice Here : 2
+
+/*-----------------------------------------------------------------*/
+
+Info Read From File : /home/karaya_12/桌面/input.txt
+Number of Total Processes : 11
+Process ID	  Arrival Time	   Burst Time		 Priority
+  P[1]			   0			   79				1
+  P[9]			   38			   47				2
+  P[6]			   112			   10				2
+  P[8]			   112			   72				0
+  P[4]			   128			   65				1
+  P[3]			   135			   52				2
+  P[2]			   184			   49				0
+  P[5]			   197			   98				0
+  P[10]			   236			   100				1
+  P[7]			   298			   6				1
+
+/*-----------------------------------------------------------------*/
+Shortest-Job-First Scheduling Algorithm
+
+Process ID	  Burst Time	 Waiting Time	 Turnaround Time
+  P[1]			   79			   0				79
+  P[9]			   47			   41				88
+  P[6]			   10			   14				24
+  P[3]			   52			   1				53
+  P[2]			   49			   4				53
+  P[4]			   65			   109				174
+  P[7]			   6			   4				10
+  P[8]			   72			   196				268
+  P[5]			   98			   183				281
+  P[10]			   100			   242				342
+Total Scheduling Times : 10
+Total Waiting Time : 794
+Total Turnaround Time : 1372
+Average Waiting Time : 79.4
+Average Turnaround Time : 137.2
+
+/*-----------------------------------------------------------------*/
+
+Input 'Y' or 'y' For Another Algorithm, Anything Else To Quit : y
+
+1 --> FCFS_Algorithm, 2 --> Shortest-Job-First Algorithm
+3 --> Round-Robin Scheduling Algorithm
+Make Your Choice Here : 3
+
+/*-----------------------------------------------------------------*/
+
+Info Read From File : /home/karaya_12/桌面/input.txt
+Number of Total Processes : 11
+Process ID	  Arrival Time	   Burst Time		 Priority
+  P[1]			   0			   79				1
+  P[9]			   38			   47				2
+  P[6]			   112			   10				2
+  P[3]			   135			   52				2
+  P[2]			   184			   49				0
+  P[4]			   128			   65				1
+  P[7]			   298			   6				1
+  P[8]			   112			   72				0
+  P[5]			   197			   98				0
+  P[10]			   236			   100				1
+
+Set Quantum Time Here : 10
+
+/*-----------------------------------------------------------------*/
+Round-Robin Scheduling Algorithm, With Quantum = 10 Nanoseconds
+Total Waiting Time : 9232
+Total Turnaround Time : 9810
+Average Waiting Time : 923.2
+Average Turnaround Time : 981
+
+/*-----------------------------------------------------------------*/
+
+Input 'Y' or 'y' For Another Algorithm, Anything Else To Quit : n
+Process Scheduling Algorithm Simulator Completed !
+Exit...
+
+Process finished with exit code 0

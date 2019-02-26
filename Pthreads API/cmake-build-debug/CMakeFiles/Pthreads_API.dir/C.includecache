@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/karaya_12/Coding/Operating System Concepts/Pthreads API/main.c
+sys/types.h
+-
+sys/wait.h
+-
+pthread.h
+-
+stdio.h
+-
+unistd.h
+-
+

@@ -1,0 +1,3 @@
+/home/karaya_12/Coding/Operating System Concepts/Assignment II/Multi-process Parallel Communication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/karaya_12/Coding/Operating System Concepts/Assignment II/Multi-process Parallel Communication/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karaya_12/Coding/Operating System Concepts/Assignment II/Multi-process Parallel Communication/cmake-build-debug/CMakeFiles/Multi_process_Parallel_Communication.dir

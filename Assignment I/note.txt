@@ -1,0 +1,28 @@
+Assignment I
+
+cd /home/karaya_12
+
+ls -dl /root>f1
+
+df /roof>f2
+
+cat f1 f2>f3
+
+
+
+/*-----------------------------------*/
+
+
+
+Assignment II
+
+sudo vim myAtoi.cpp
+
+
+
+/*Source Code*/
+
+
+g++ myAtoi.cpp -o myAtoi.out
+
+./myAtoi.out
